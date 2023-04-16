@@ -1,0 +1,1 @@
+{"inputUnits":[3],"outputUnits":1,"inputs":{"temperature":{"dtype":"number","min":1939,"max":40000},"luminosity":{"dtype":"number","min":0.000085,"max":849420},"radius":{"dtype":"number","min":0.0084,"max":1948.5}},"outputs":{"class":{"dtype":"number","min":0,"max":5}},"isNormalized":true}
